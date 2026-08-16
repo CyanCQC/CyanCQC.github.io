@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello 👋"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,13 +15,19 @@ redirect_from:
 
 ## About Me 🎆
 
-I'm Yunxi Wang, currently an undergraduate student at University of Electronic Science and Technology of China (UESTC). I will be pursuing my PhD degree at Shanghai Innovation Institute (SII) starting in Fall 2027. My research interests lie in Computer Vision (CV) and Multimodal LLMs (MLLMs), with a particular focus on leveraging structural representations to optimize and accelerate model inference.
+I'm Yunxi Wang, currently an undergraduate student at UESTC. Starting in Fall 2027, I will be pursuing my PhD degree at SII & SJTU (joint), supervised by [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/) at [SJTU MM Lab](https://multimedia.sjtu.edu.cn/).
 
-Outside of research, I'm a passionate table tennis enthusiast. My peak rating on ChinaTT (开球网) stands at 1681 — not elite by any measure, but I keep pushing to break through my limits. 🏓
+Outside of work and research, I'm a passionate table tennis enthusiast. My peak rating on ChinaTT (开球网) stands at 1681 — not elite by any measure, but I keep pushing to break through my limits. 🏓
+
+## Research Interests 🔬
+
+My research interests lie in **Computer Vision (CV)** and **Multimodal LLMs (MLLMs)**, with a particular focus on leveraging structural representations to optimize and accelerate model inference. 
+
+Currently, I'm focusing on the topic of AIGC detection and localization for images/videos.
 
 ## Collaboration 🤝
 
-I also have solid project experience in medical AI and intelligent agent development. If you're interested in collaboration, feel free to reach out via email — I'd love to hear from you.
+I also have solid project experience in **medical AI** and **agent development**. Representative works are listed in the CV tab. If you're interested in collaboration, feel free to contact me.
 
 ## Interesting Folks 🌟
 
