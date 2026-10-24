@@ -14,9 +14,19 @@ Education
 * **Joint PhD Student**, School of Computer Science (SCS), SJTU & SII,  2027– (expected)
 * **Undergraduate Student**, School of Computer Science and Engineering (SCSE), UESTC, 2023-2027
 
-Honors & Leadership
+Scholarships
 ======
-* **Turing Program Member** (Scholarship Recipient) - 图灵计划成员（获图灵 Yak 奖学金）
+* **National Scholarship**, 2025–2026
+
+* **Tencent Scholarship**, 2024–2025
+
+* **Yak Turing Scholarship**, 2024
+
+* **Outstanding Student Scholarship**, 2023–2024, 2024–2025, 2025–2026
+
+Affiliations & Roles
+======
+* **SCSE Turing Program Member** - 计算机学院图灵计划成员
 * **Student Mentor**, Yanggu Youth Innovation Platform, UESTC - 旸谷青年科创平台导生
 * **Student Mentor**, LR5, School of Computer Science, UESTC - 计算机学院立人班导生
 * **Member**, Huawei 'AI + Zhiyuan' Program (华为'AI+致远'班) - 华为"AI+致远"班成员
@@ -29,7 +39,7 @@ I have visited and understood opportunities at several tech giants, but chose to
 **Research Experience**
 * Fall 2027 - : **PhD Student (expected)**
   * Multimedia Lab, SJTU
-  * Research Focus: AIGC Detection
+  * Research Focus: AIGC Detection & Localization
   * Advisor: [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/)
 
 * Winter 2023 - 2026: **Research Intern**
