@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Joint PhD Student**, School of Computer Science (SCS), SJTU & SII,  2027– (expected)
-* **Undergraduate Student**, School of Computer Science and Engineering (SCSE), UESTC, 2023-2027
+* **Joint PhD Student**, School of Computer Science (SCS), SJTU & SII
+* **Undergraduate Student**, School of Computer Science and Engineering (SCSE), UESTC
 
 Scholarships
 ======
@@ -34,7 +34,7 @@ Affiliations & Roles
 Internships & Research Experience
 ======
 
-I have visited and understood opportunities at several tech giants, but chose to prioritize hands-on, full-stack learning experiences where I could own projects from inception to completion, rather than becoming a specialist in a single component.
+I chose to prioritize hands-on, full-stack learning experiences where I could own projects from inception to completion, rather than becoming a specialist in a single component.
 
 **Research Experience**
 * Fall 2027 - : **PhD Student (expected)**
@@ -48,12 +48,15 @@ I have visited and understood opportunities at several tech giants, but chose to
   * Advisor: [Yazhou Ren](https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=en)
 
 **Industry Internships**
-* Spring 2026 - Now: **Algorithm Engineer (LLM)**
+* Winter 2026 - (expected): **Research Intern (AI Security & Forensic Agent)**
+  * INTSIG (Intsig Information Co., Ltd.), Shanghai
+
+* Spring 2026 - Fall 2026: **Algorithm Engineer (Agent Architecture & Post-Training)**
   * Chongqing Xianxiyun Technology Co., Ltd.
   * Duties: [**IdealRivia Platform**](https://auth0.xianxiyun.com) (including [**ILPGS** (智能教案生成系统)©](https://tpg.xianxiyun.com); [**MHTTS** (病史采集训练系统)©](https://hts.xianxiyun.com); [**CATS** (病例分析训练系统)©](https://eas.xianxiyun.com), etc. )
   * Representative Work: [**ILPGS**](https://tpg.xianxiyun.com), [**IdealSlides**](https://example.com)
 
-* Summer 2024 - 2025: **Algorithm Engineer (LLM)**
+* Summer 2024 - Fall 2025: **Algorithm Engineer (Agent Architecture)**
   * Chongqing Yuanqiu Technology Co., Ltd.
   * Duties: [**Standardized Residency Trainee Automatic Rotation System** (住培学员自动轮转系统) ©](https://www.yirenyun.net/); [**Clinical Thinking Training System** (临床思维培训系统) ©](https://www.yirenyun.net/)
 

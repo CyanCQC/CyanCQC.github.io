@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yunxi Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Undergrad in UESTC, incoming student at SJTU Multimedia Lab"
-  location         : "Chongqing, China"
+  pronouns         : "he/him"  
+  bio              : "PhD Student at SJTU Multimedia Lab & SII"
+  location         : "Shanghai, China"
   employer         : "IdealRivia"
   uri              : # URL
   email            : "cyanwang234@gmail.com" 

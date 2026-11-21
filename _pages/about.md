@@ -21,11 +21,13 @@ Outside of work and research, I'm a passionate table tennis enthusiast. My peak 
 
 ## Research Interests 🔬
 
-My research interests lie in **Computer Vision (CV)** and **Multimodal LLMs (MLLMs)**, with a particular focus on leveraging structural representations to optimize and accelerate model inference. 
+My research interests lie in **Computer Vision (CV)**, specifically **AIGC Detection & Localization** and **Multimodal LLM & Agent**, with a particular focus on leveraging agent architecture to optimize inference and system performance. 
 
-Currently, I'm focusing on the topic of AIGC detection and localization for images/videos.
+Currently, I'm focusing on the topic of native-resolution AIGC detection and forensic agents.
 
 ## Collaboration 🤝
+
+I was previously a Research Intern at INTSIG and currently lead IdealRivia, an early-stage startup group developing AI agents for medical education.
 
 I also have solid project experience in **medical AI** and **agent development**. Representative works are listed in the CV tab. If you're interested in collaboration, feel free to contact me.
 
